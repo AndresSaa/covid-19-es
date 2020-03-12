@@ -64,6 +64,66 @@ Si se mantuviese cada día este tipo de tasa de crecimiento durante una semana, 
 
 Si quieres entender lo que va a pasar, o cómo prevenirlo, deberías conocer los casos que ya han pasado por esto: China, los países del Este con experiencia en el SARS, e Italia.
 
+## China
+
+![Timeline of Events in Hubei](https://miro.medium.com/max/5376/1*r-ddYhoUtP_se6x-NOEinA.png)
+
+Este es uno de los gráficos más importantes.
+
+Muestra en barras naranjas el número oficial diario de casos en la provincia de
+Hubei: Cuántas personas fueron diagnosticadas ese día.
+
+Las barras grises muestran los verdaderos casos diarios de coronavirus. El CDC
+chino los encontró preguntando a los pacientes durante el diagnóstico cuándo
+empezaron los síntomas.
+
+Lamentablemente, los casos verdaderos no se conocían en ese momento. Sólo
+podemos conocerlos mirando hacia atrás: Las autoridades no pueden saber cuando
+alguien comenzó a tener síntomas. Sólo cuando alguien va al médico y es
+diagnosticado.
+
+Lo que significa que las barras naranjas muestran lo que las autoridades sabían,
+y las grises lo que realmente estaba pasando.
+
+El 21 de enero, el número de nuevos casos diagnosticados (naranja) se dispara: hay alrededor de 100 nuevos casos. En realidad, hubo 1.500 nuevos
+casos ese día, creciendo exponencialmente. Pero las autoridades no lo sabían.
+Lo que sabían era que de repente había 100 nuevos casos de esta nueva
+enfermedad.
+
+Dos días después, las autoridades cerraron Wuhan. En ese momento, el número
+de nuevos casos diagnosticados diariamente era de ~400. Fíjate en ese
+número: tomaron la decisión de cerrar la ciudad con sólo 400 nuevos casos en
+un día. En realidad, había 2.500 nuevos casos ese día, pero ellos no lo sabían.
+
+Al día siguiente, otras 15 ciudades de Hubei cerraron.
+Hasta el 23 de enero, cuando Wuhan cierra, puedes mirar el gráfico gris: está
+creciendo exponencialmente. Los casos reales se estaban disparando. Tan pronto
+como Wuhan se cierra, los casos disminuyen. El 24 de enero, cuando otras 15
+ciudades se cerraron, el número de casos reales (de nuevo, en gris) se
+detuvo. Dos días más tarde, el número máximo de casos reales se alcanzó,
+y ha disminuido desde entonces.
+
+Nótese que los casos naranjas (oficiales) seguían creciendo exponencialmente:
+Durante 12 días más, parecía que el comtagio se incrementaba rápidamente. Pero no era así.
+Lo que ocurría es que los síntomas eran cada vez más claros. Además, los ciudanaos acudían más
+al médico, y el sistema para identificarlos era más efectivo.
+
+Este concepto de casos oficiales y reales es importante. Tengámoslo en
+cuenta para más adelante.
+El resto de las regiones de China estaban bien coordinadas por el gobierno
+central, así que tomaron medidas inmediatas y drásticas. Este es el resultado:
+
+![Coronavirus Cases](https://miro.medium.com/max/4674/1*z0g3NaygxsgD50x_DJUIBA.png)
+
+Cada línea plana es una región china con casos de coronavirus (covid-19). Cada uno tenía
+el potencial de convertirse en exponencial, pero gracias a las medidas que
+ocurrieron justo a finales de enero, todos ellos detuvieron el virus antes de que
+pudiera propagarse.
+
+Mientras tanto, Corea del Sur, Italia e Irán tuvieron un mes completo para
+aprender, pero no lo hicieron. Comenzaron el mismo crecimiento exponencial
+de Hubei y pasaron por todas las regiones chinas antes de finales de febrero.
+
 -
 
 Fuente: [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
