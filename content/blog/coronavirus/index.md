@@ -142,7 +142,7 @@ Todos ellos fueron afectados por el SARS en 2003, y todos aprendieron de él. Ap
 
 Hasta ahora, tenemos casos de naciones donde el coronavirus se dispara, gobiernos que se dan cuenta de la amenaza, y los contienen. Para el resto de los países, sin embargo, es una historia completamente diferente.
 
-Antes de saltar a ellos, una nota sobre Corea del Sur: El país es probablemente un atípico. El coronavirus fue contenido en los primeros 30 casos. El paciente 31 fue un súper propagador que se lo pasó a miles de personas. Debido a que el virus se propaga antes de que la gente muestre síntomas, para cuando las autoridades se dieron cuenta del problema, el virus ya estaba ahí fuera. Ahora están pagando las consecuencias de ese único caso. Sus esfuerzos de contención muestran, sin embargo: Italia ya lo ha transmitido en número de casos, e Irán lo transmitirá mañana (3/10/2020).
+Antes de saltar a ellos, una nota sobre Corea del Sur: El país es probablemente un caso atípico. El coronavirus fue contenido en los primeros 30 casos. El [Paciente 31](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html) fue un súper propagador que se lo transmitió a miles de personas. Debido a que el virus se propaga antes de que la gente muestre síntomas, para cuando las autoridades se dieron cuenta del problema, el virus ya estaba ahí fuera. Ahora están pagando las consecuencias de ese único caso. Sin embargo, a pesar de sus esfuerzos de contención sabemos que Italia ya lo ha sobrepasado en número de casos, e Irán lo hará mañana (10/03/2020).
 
 ### Estado de Washington
 
