@@ -39,7 +39,7 @@ Bien, actúa ahora.
 
 ## 1. ¿Cuántos casos de Coronavirus habrá en tu área?
 
-### Crecimiento del país
+### Crecimiento por país
 
 ![Total Worldwide Cases of Coronavirus](https://miro.medium.com/max/3780/1*isAkYa68DkC-EgRdx_efZg.png)
 
