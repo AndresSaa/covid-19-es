@@ -165,7 +165,7 @@ Esto es un problema: Sólo conoces los casos oficiales, no los reales. Pero nece
 
 Primero, a través de las muertes. Si tienes muertes en tu región, puedes usar eso para adivinar el número de reales casos actuales. Sabemos aproximadamente cuánto tiempo le lleva a esa persona pasar de contraer el virus a morir en promedio (17,3 días). Eso significa que la persona que murió el 29 de febrero en el estado de Washington probablemente se infectó alrededor del 12 de febrero.
 
-Entonces, conoces la tasa de mortalidad. Para este escenario, estoy usando el 1% (discutiremos más adelante los detalles). Eso significa que, alrededor del 2/12, ya había alrededor de ~100 casos en el área (de los cuales sólo uno terminó en muerte 17.3 días después).
+Entonces, conoces la tasa de mortalidad. Para este escenario, estoy usando el 1% (discutiremos más adelante los detalles). Eso significa que, alrededor del 2/12, ya había alrededor de ~100 casos en el área (de los cuales sólo uno terminó en muerte [17.3 días después](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)).
 
 Ahora, usa el tiempo promedio de duplicación para el coronavirus (tiempo que toma duplicar los casos, en promedio). Es de 6,2. Eso significa que, en los 17 días que le tomó a esta persona morir, los casos tuvieron que multiplicarse por ~8 (=2^(17/6)). Eso significa que, si no se diagnostican todos los casos, una muerte hoy significa 800 casos reales hoy.
 
@@ -173,7 +173,7 @@ El estado de Washington tiene hoy 22 muertes. Con ese rápido cálculo, se obtie
 
 Si miramos en detalle, nos damos cuenta de que 19 de estas muertes fueron de un solo grupo, lo que podría no haber propagado el virus ampliamente. Así que, si consideramos esas 19 muertes como una sola, el total de muertes en el estado es de cuatro. Actualizando el modelo con ese número, todavía tenemos ~3.000 casos hoy.
 
-Este enfoque de Trevor Bedford mira a los propios virus y sus mutaciones para evaluar el recuento actual de casos. [Link al tweet](https://twitter.com/trvrb/status/1237394739143438338)
+Este enfoque de [Trevor Bedford](https://medium.com/u/685823cf116a) mira a los propios virus y sus mutaciones para evaluar el recuento actual de casos. [Link al tweet](https://twitter.com/trvrb/status/1237394739143438338)
 
 La conclusión es que es probable que haya unos 1.100 casos en el estado de Washington en este momento.
 
@@ -181,7 +181,7 @@ Ninguno de estos enfoques es perfecto, pero todos apuntan al mismo mensaje: No s
 
 ### Bahía de San Francisco
 
-Hasta el 3/8, el área de la bahía no tuvo ninguna muerte. Eso hizo difícil saber cuántos casos reales hubo. Oficialmente, hubo 86 casos. Pero los EE.UU. están muy por debajo de las pruebas porque no tienen suficientes kits. El país decidió crear su propio kit de prueba, que resultó no funcionar.
+Hasta el 3/8, el área de la bahía no tuvo ninguna muerte. Eso hizo difícil saber cuántos casos reales hubo. Oficialmente, hubo 86 casos. Pero los EE.UU. están muy por debajo de las pruebas porque no tienen suficientes kits. El país decidió crear su propio kit de prueba, que resultó [no funcionar](https://www.propublica.org/article/cdc-coronavirus-covid-19-test).
 
 Este fue el número de pruebas realizadas en diferentes países hasta el 3 de marzo:
 
@@ -189,7 +189,7 @@ Este fue el número de pruebas realizadas en diferentes países hasta el 3 de ma
 
 <small>[Fuente de datos aquí](https://docs.google.com/spreadsheets/d/17YyCmjb2Z2QwMiRRwAb7W0vQoEAiL9Co0ARsl03dSlw/edit#gid=508476959)</small>
 
-Turquía, sin casos de coronavirus, tuvo 10 veces más pruebas por habitante que los EE.UU. La situación no es mucho mejor hoy en día, con ~8.000 pruebas realizadas en los EE.UU., lo que significa que ~4.000 personas se han hecho la prueba.
+Turquía, sin casos de coronavirus, tuvo 10 veces más pruebas por habitante que los EE.UU. La situación no es mucho mejor hoy en día, con [~8.000 pruebas realizadas en los EE.UU.](https://www.cdc.gov/coronavirus/2019-ncov/testing-in-us.html), lo que significa que [~4.000](https://www.nbcnews.com/health/health-news/u-s-has-tested-more-8-500-specimens-coronavirus-doesn-n1154156) personas se han hecho la prueba.
 
 ![Coronavirus Test Performed per Millon People for Different Countries](https://miro.medium.com/max/5046/1*TkQ3WQXO8q-r2LIRWpJuOw.png)
 
@@ -211,13 +211,13 @@ Permíteme repetirlo: el número de casos reales en Francia es probable que sea 
 
 ![Timeline of Events in Hubei](https://miro.medium.com/max/5376/1*r-ddYhoUtP_se6x-NOEinA.png)
 
-Si apilas las barras de naranja hasta el 1/22, obtienes 444 cajas. Ahora suma todas las barras grises. Suman unas 12.000 cajas. Así que cuando Wuhan pensó que tenía 444 cajas, tenía 27 veces más. Si Francia piensa que tiene 1.400 cajas, podría tener decenas de miles...
+Si apilas las barras de naranja hasta el 1/22, obtienes [444 casos](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). Ahora suma todas las barras grises. Suman unas 12.000 casos. Así que cuando Wuhan pensó que tenía 444 casos, tenía 27 veces más. Si Francia piensa que tiene 1.400 casos, podría tener decenas de miles...
 
 La misma matemática se aplica a París. Con ~30 casos dentro de la ciudad, el verdadero número de casos es probable que sea de cientos, tal vez miles. Con 300 casos en la región de Île-de-France, el total de casos en la región podría ya exceder las decenas de miles.
 
 ### Spain and Madrid
 
-España tiene cifras muy similares a las de Francia (1.200 casos contra 1.400, y ambos tienen 30 muertes). Eso significa que las mismas reglas son válidas: España tiene probablemente más de 20.000 casos reales ya.
+España tiene [cifras muy similares](https://www.worldometers.info/coronavirus/) a las de Francia (1.200 casos contra 1.400, y ambos tienen 30 muertes). Eso significa que las mismas reglas son válidas: España tiene probablemente más de 20.000 casos reales ya.
 
 En la Comunidad de Madrid, con 600 casos oficiales y 17 muertes, el número real de casos es probablemente entre 10.000 y 60.000.
 
@@ -279,7 +279,7 @@ Entonces, ¿qué necesita un país para estar preparado?
 
 ### Cuál será la presión sobre el sistema
 
-Alrededor del 20% de los casos requieren hospitalización, el 5% de los casos requieren la Unidad de Cuidados Intensivos (UCI), y alrededor del 1% requieren ayuda muy intensiva, con artículos  como ventiladores o ECMO (oxigenación extracorpórea).
+Alrededor del 20% de los casos requieren hospitalización, el 5% de los casos requieren la Unidad de Cuidados Intensivos (UCI), y alrededor del 1% requieren ayuda muy intensiva, con artículos  como ventiladores o ECMO ([oxigenación extracorpórea](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation)).
 
 ![The Majority of Infections are Mild](https://miro.medium.com/max/2745/1*-O84hhKDRHmgMVAslvgj-Q.png)
 ![Best Guess Epidemology](https://miro.medium.com/max/5007/1*OZfW6tNEcArbnBzTXp_zbw.png)
@@ -288,7 +288,7 @@ El problema es que artículos como ventiladores y ECMO no pueden ser producidos 
 
 Así que si de repente tienes 100.000 personas infectadas, muchas de ellas querrán hacerse la prueba. Alrededor de 20.000 necesitarán hospitalización, 5.000 necesitarán la UCI, y 1.000 necesitarán máquinas que no tenemos suficientes hoy en día. Y eso sólo con 100.000 casos.
 
-Eso sin tener en cuenta cuestiones como las máscaras. Un país como los EE.UU. tiene sólo el 1% de las mascarillas que necesita para cubrir las necesidades de sus trabajadores de la salud (12M N95, 30M quirúrgicas vs. 3.5B necesarias). Si aparecen muchos casos a la vez, habrá mascarillas sólo durante 2 semanas.
+Eso sin tener en cuenta cuestiones como las máscaras. Un país como los EE.UU. tiene sólo el 1% de las mascarillas que necesita para cubrir las necesidades de sus trabajadores de la salud (12M N95, 30M quirúrgicas vs. 3.5B necesarias). Si aparecen muchos casos a la vez, [habrá mascarillas sólo durante 2 semanas](https://www.cnbc.com/2020/03/04/hhs-clarifies-us-has-about-1percent-of-face-masks-needed-for-full-blown-pandemic.html).
 
 Países como Japón, Corea del Sur, Hong Kong o Singapur, así como las regiones chinas fuera de Hubei, han sido preparados y se les ha dado la atención que los pacientes necesitan.
 
