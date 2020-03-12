@@ -484,7 +484,7 @@ Esta es probablemente la única vez en la última década que compartir un artí
 
 -
 
-Fuente: [Coronavirus: Why You Must Act Now](https://miro.medium.com/max/5229/1*16H3bmMfu149AdgU27mI-w.png)
+Fuente: [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
 Si deaseas contribuir a la traducción de más artículos como este, colabora con una donación por PayPal:
 [PayPalMe](https://www.paypal.com/paypalme2/AndresSaaNarvaez)
