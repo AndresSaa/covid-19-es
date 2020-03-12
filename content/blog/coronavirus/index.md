@@ -64,9 +64,11 @@ Si se mantuviese cada día este tipo de tasa de crecimiento durante una semana, 
 
 Si quieres entender lo que va a pasar, o cómo prevenirlo, deberías conocer los casos que ya han pasado por esto: China, los países del Este con experiencia en el SARS, e Italia.
 
-## China
+### China
 
 ![Timeline of Events in Hubei](https://miro.medium.com/max/5376/1*r-ddYhoUtP_se6x-NOEinA.png)
+
+<small>Fuente: Tomas Pueyo analysis over chart from the [Journal of the American Medical Association](https://jamanetwork.com/journals/jama/fullarticle/2762130), based on raw case data from the Chinese Center for Disease Control and Prevention</small>
 
 Este es uno de los gráficos más importantes.
 
@@ -123,6 +125,156 @@ pudiera propagarse.
 Mientras tanto, Corea del Sur, Italia e Irán tuvieron un mes completo para
 aprender, pero no lo hicieron. Comenzaron el mismo crecimiento exponencial
 de Hubei y pasaron por todas las regiones chinas antes de finales de febrero.
+
+### Países del Este
+
+Los casos de Corea del Sur se han disparado, pero ¿te has preguntado por qué
+Japón, Taiwán, Singapur, Tailandia o Hong Kong no lo han hecho?
+
+![Total Cases of Coronavirus Outside of China](https://miro.medium.com/max/4839/1*S4b2QWJXiEMtNoM24tD-gA.png)
+
+<small>Taiwan didn’t even make it to this graph because it didn’t have the 50 cases threshold that I used.</small>
+
+Taiwán ni siquiera llegó a este gráfico porque no tenía el umbral de 50 casos.
+
+Todos ellos fueron afectados por el SARS en 2003, y todos aprendieron de él. Aprendieron lo viral y letal que podía ser, así que sabían que debían tomarlo en serio. Es por eso que todas sus gráficas, a pesar de haber empezado a crecer mucho antes, todavía no parecen exponenciales.
+
+Hasta ahora, tenemos casos de naciones donde el coronavirus se dispara, gobiernos que se dan cuenta de la amenaza, y los contienen. Para el resto de los países, sin embargo, es una historia completamente diferente.
+
+Antes de saltar a ellos, una nota sobre Corea del Sur: El país es probablemente un atípico. El coronavirus fue contenido en los primeros 30 casos. El paciente 31 fue un súper propagador que se lo pasó a miles de personas. Debido a que el virus se propaga antes de que la gente muestre síntomas, para cuando las autoridades se dieron cuenta del problema, el virus ya estaba ahí fuera. Ahora están pagando las consecuencias de ese único caso. Sus esfuerzos de contención muestran, sin embargo: Italia ya lo ha transmitido en número de casos, e Irán lo transmitirá mañana (3/10/2020).
+
+### Estado de Washington
+
+Ya has visto el crecimiento en los países occidentales, y lo mal que se ven los pronósticos de sólo una semana. Ahora imagina que la contención no ocurre como en Wuhan o en otros países orientales, y te encuentras con una epidemia colosal.
+Veamos algunos casos, como el Estado de Washington, la Bahía de San Francisco, París y Madrid.
+
+![Washington State Cases and Death Rate](https://miro.medium.com/max/4806/1*Lq9aeg8xl_k6H54trbMWsw.png)
+
+El Estado de Washington es el Wuhan de los EE.UU. El número de casos allí está creciendo exponencialmente. Actualmente es de 140.
+
+Pero algo interesante sucedió al principio. La tasa de mortalidad estaba por las nubes. En algún momento, el estado tuvo 3 casos y una muerte.
+
+Sabemos por otros lugares que la tasa de mortalidad del coronavirus está entre el 0,5% y el 5% (más sobre eso después). ¿Cómo puede ser que la tasa de mortalidad sea del 33%?
+
+Resultó que el virus se había estado propagando sin ser detectado durante semanas. No es que sólo hubiera tres casos. Es que las autoridades sólo sabían de 3, y uno de ellos estaba muerto porque cuanto más grave era la condición, más probable era que alguien se hiciera la prueba.
+
+Esto es un poco como las barras naranjas y grises en China: Aquí sólo sabían de las barras naranjas (casos oficiales) y se veían bien: sólo 3. Pero en realidad, había cientos, tal vez miles de casos verdaderos.
+
+Esto es un problema: Sólo conoces los casos oficiales, no los reales. Pero necesitas saber los verdaderos. ¿Cómo puedes estimar los reales? Resulta que hay un par de maneras. Existe un modelo para ambas, así que también puedes jugar con los números [(enlace directo para copiar el modelo)](https://docs.google.com/spreadsheets/d/17YyCmjb2Z2QwMiRRwAb7W0vQoEAiL9Co0ARsl03dSlw/edit?usp=sharing).
+
+Primero, a través de las muertes. Si tienes muertes en tu región, puedes usar eso para adivinar el número de reales casos actuales. Sabemos aproximadamente cuánto tiempo le lleva a esa persona pasar de contraer el virus a morir en promedio (17,3 días). Eso significa que la persona que murió el 29 de febrero en el estado de Washington probablemente se infectó alrededor del 12 de febrero.
+
+Entonces, conoces la tasa de mortalidad. Para este escenario, estoy usando el 1% (discutiremos más adelante los detalles). Eso significa que, alrededor del 2/12, ya había alrededor de ~100 casos en el área (de los cuales sólo uno terminó en muerte 17.3 días después).
+
+Ahora, usa el tiempo promedio de duplicación para el coronavirus (tiempo que toma duplicar los casos, en promedio). Es de 6,2. Eso significa que, en los 17 días que le tomó a esta persona morir, los casos tuvieron que multiplicarse por ~8 (=2^(17/6)). Eso significa que, si no se diagnostican todos los casos, una muerte hoy significa 800 casos reales hoy.
+
+El estado de Washington tiene hoy 22 muertes. Con ese rápido cálculo, se obtienen ~16.000 casos reales de coronavirus hoy.
+
+Si miramos en detalle, nos damos cuenta de que 19 de estas muertes fueron de un solo grupo, lo que podría no haber propagado el virus ampliamente. Así que, si consideramos esas 19 muertes como una sola, el total de muertes en el estado es de cuatro. Actualizando el modelo con ese número, todavía tenemos ~3.000 casos hoy.
+
+Este enfoque de Trevor Bedford mira a los propios virus y sus mutaciones para evaluar el recuento actual de casos. [Link al tweet](https://twitter.com/trvrb/status/1237394739143438338)
+
+La conclusión es que es probable que haya unos 1.100 casos en el estado de Washington en este momento.
+
+Ninguno de estos enfoques es perfecto, pero todos apuntan al mismo mensaje: No sabemos el número de casos reales, pero es mucho más alto que el oficial. No está en los cientos. Está en los miles, tal vez más.
+
+### Bahía de San Francisco
+
+Hasta el 3/8, el área de la bahía no tuvo ninguna muerte. Eso hizo difícil saber cuántos casos reales hubo. Oficialmente, hubo 86 casos. Pero los EE.UU. están muy por debajo de las pruebas porque no tienen suficientes kits. El país decidió crear su propio kit de prueba, que resultó no funcionar.
+
+Este fue el número de pruebas realizadas en diferentes países hasta el 3 de marzo:
+
+![Tomas Pueyo analysis with data from Worldometer](https://miro.medium.com/max/3207/1*5CLrZODKffLpdVhRgZY4uw.png)
+
+<small>[Fuente de datos aquí](https://docs.google.com/spreadsheets/d/17YyCmjb2Z2QwMiRRwAb7W0vQoEAiL9Co0ARsl03dSlw/edit#gid=508476959)</smalll>
+
+Turquía, sin casos de coronavirus, tuvo 10 veces más pruebas por habitante que los EE.UU. La situación no es mucho mejor hoy en día, con ~8.000 pruebas realizadas en los EE.UU., lo que significa que ~4.000 personas se han hecho la prueba.
+
+![Coronavirus Test Performed per Millon People for Different Countries](https://miro.medium.com/max/5046/1*TkQ3WQXO8q-r2LIRWpJuOw.png)
+
+Aquí, sólo se puede utilizar una parte de los casos oficiales para los casos verdaderos. ¿Cómo decidir cuál? Para el área de la bahía, estaban haciendo pruebas a todos los que habían viajado o estaban en contacto con un viajero, lo que significa que conocían la mayoría de los casos relacionados con viajes, pero ninguno de la comunidad difundió los casos. Al tener un sentido de propagación social frente a propagación migratoria (viajes), puedes saber cuántos casos reales hay.
+
+Observa esa proporción para Corea del Sur, que tiene grandes datos. Para cuando tuvieron 86 casos, su porcentaje de propagación social fue del 86% (86 y 86% son una coincidencia).
+
+Con ese número, puedes calcular el número de casos verdaderos. Si el Área de la Bahía tiene 86 casos hoy en día, es probable que el número verdadero sea ~600.
+
+### Francia y  París
+
+Francia informó de 1.400 casos hoy y 30 muertes. Utilizando los dos métodos anteriores, se puede tener un rango de casos: entre 24.000 y 140.000.
+
+> El verdadero número de casos de coronavirus en Francia hoy en día es probable que esté entre 24.000 y 140.000.
+
+Permíteme repetirlo: el número de casos reales en Francia es probable que sea entre uno y dos órdenes o magnitudes más alto que el que se reporta oficialmente.
+
+¿No me crees? Veamos el gráfico de Wuhan otra vez.
+
+![Timeline of Events in Hubei](https://miro.medium.com/max/5376/1*r-ddYhoUtP_se6x-NOEinA.png)
+
+Si apilas las barras de naranja hasta el 1/22, obtienes 444 cajas. Ahora suma todas las barras grises. Suman unas 12.000 cajas. Así que cuando Wuhan pensó que tenía 444 cajas, tenía 27 veces más. Si Francia piensa que tiene 1.400 cajas, podría tener decenas de miles...
+
+La misma matemática se aplica a París. Con ~30 casos dentro de la ciudad, el verdadero número de casos es probable que sea de cientos, tal vez miles. Con 300 casos en la región de Île-de-France, el total de casos en la región podría ya exceder las decenas de miles.
+
+### Spain and Madrid
+
+España tiene cifras muy similares a las de Francia (1.200 casos contra 1.400, y ambos tienen 30 muertes). Eso significa que las mismas reglas son válidas: España tiene probablemente más de 20.000 casos reales ya.
+
+En la Comunidad de Madrid, con 600 casos oficiales y 17 muertes, el número real de casos es probablemente entre 10.000 y 60.000.
+
+Si lees estos datos y te dices a ti mismo: "Imposible, esto no puede ser verdad", piense en esto: Con este número de casos, Wuhan ya estaba encerrado.
+
+Con el número de casos en países como EE.UU., España, Francia, Irán, Alemania, Japón o Suiza, Wuhan ya estaba encerrado.
+
+Y si te dices a ti mismo: "Bueno, Hubei es sólo una región", déjame recordarte que tiene casi 60 millones de personas, más grande que España y del tamaño de Francia.
+
+## 2. Que pasará cuando se materialicen estos casos de Coronavirus?
+
+Así que el coronavirus ya está aquí. Está escondido, y está creciendo exponencialmente.
+¿Qué pasará en nuestros países cuando llegue? Es fácil saberlo, porque ya tenemos varios lugares donde está ocurriendo. Los mejores ejemplos son Hubei e Italia.
+
+### Tasa de mortalidad
+
+La Organización Mundial de la Salud (OMS) habla de un 3,4% como la tasa de mortalidad (% de personas que contraen el coronavirus y luego mueren). Este número está fuera de contexto, así que déjame explicártelo.
+
+![Fatality Rate: Deaths / TOTAL Cases](https://miro.medium.com/max/4368/1*AEkk1vW8TIxRqOO_sgh7Hw.png)
+
+Realmente depende del país y del momento: entre el 0,6% en Corea del Sur y el 4,4% en Irán. Entonces, ¿qué es? Podemos usar un truco para averiguarlo.
+
+Las dos formas de calcular la tasa de mortalidad son Muertes/Casos Totales y Muertes/Casos Cerrados. La primera es probable que sea una subestimación, porque muchos casos abiertos pueden terminar en muerte. La segunda es una sobreestimación, porque es probable que las muertes se cierren más rápido que las recuperaciones.
+
+Lo que hice fue observar cómo evolucionan ambos a lo largo del tiempo. Ambos números convergerán en el mismo resultado una vez que todos los casos se cierren, así que si proyectas las tendencias del pasado al futuro, puedes hacer una suposición sobre cuál será la tasa de mortalidad final.
+
+Esto es lo que ves en los datos. La tasa de mortalidad de China está ahora entre el 3,6% y el 6,1%. Si proyectas eso en el futuro, parece que converge hacia el ~3,8%-4%. Esto es el doble de la estimación actual, y 30 veces peor que la gripe.
+
+Sin embargo, se compone de dos realidades completamente diferentes: Hubei y el resto de China.
+
+![Fatality Rates in Hubei Region, China](https://miro.medium.com/max/4701/1*14hmTh1TCfscKI1BgCHwng.png)
+
+La tasa de mortalidad de Hubei probablemente convergerá hacia el 4,8%. Mientras tanto, para el resto de China, probablemente convergerá hacia el ~0,9%:
+
+![Fatality Rates in China, Excluding Hubei](https://miro.medium.com/max/4899/1*pDV9FhbWw7eZbxT_4LIfRg.png)
+
+También he recogido los números de Irán, Italia y Corea del Sur, los únicos países con suficientes muertes para que esto sea algo relevante.
+
+![Projection of Coronavirus Fatality Rate in Iran](https://miro.medium.com/max/4536/1*6nBWfGtv7iCoQmtmcDc_zw.png)
+![Projection of Coronavirus Fatality Rate in Italy](https://miro.medium.com/max/4386/1*CmkEvo5Al8zeH-DYo7Oy9w.png)
+![Projection of Coronavirus Fatality Rate in South Korea](https://miro.medium.com/max/4278/1*2ej6lF6WJSPlSNbSTZS_UA.png)
+
+Las Muertes / Casos Totales de Irán e Italia convergen hacia el rango del 3%-4%. Supongo que sus números terminarán alrededor de esa cifra también.
+
+Corea del Sur es el ejemplo más interesante, porque estos dos números están completamente desconectados: muertes / casos totales es sólo el 0,6%, pero muertes / casos cerrados es un enorme 48%. Mi opinión es que el país es extremadamente cauteloso: están haciendo pruebas a todo el mundo (con tantos casos abiertos, la tasa de mortalidad parece baja), y dejando los casos abiertos por más tiempo (por lo que cierran los casos rápidamente cuando el paciente está muerto). Lo que es relevante es que las muertes/casos han rondado el 0,5% desde el principio, lo que sugiere que se quedará ahí.
+
+El último ejemplo relevante es el crucero Diamond Princess: con 706 casos, 6 muertes y 100 recuperaciones, la tasa de mortalidad será de entre el 1% y el 6,5%.
+
+Esto es lo que se puede concluir:
+
+- Los países que se preparen verán una tasa de mortalidad de ~0,5% (Corea del Sur) a 0,9% (resto de China).
+- Los países que están abrumados tendrán una tasa de mortalidad de entre ~3%-5%.
+
+Dicho de otra manera: Los países que actúan con rapidez pueden reducir el número de muertes en diez. Y eso es sólo contando la tasa de mortalidad. Actuar rápido también reduce drásticamente los casos, lo que hace que esto sea aún más fácil.
+
+> Los países que actúan rápido reducen el número de muertes por lo menos 10 veces.
+
+Entonces, ¿qué necesita un país para estar preparado?
 
 -
 
