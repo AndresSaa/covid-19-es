@@ -3,7 +3,7 @@ title: Coronavirus. Por qué debemos actuar ya!
 date: "2020-03-12T10:00:00.284Z"
 description: "Políticos, dirigentes de las comunidades y líderes empresariales: ¿Qué deben hacer y cuándo?"
 ---
-<small>Esta es una traducción libre del artículo ["Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) escrito por [Tomas Pueyo](https://medium.com/@tomaspueyo) el día 10 de marzo de 2020.</small>
+<small>Esta es una traducción libre de Andrés Saá y Raquel Marín del artículo ["Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) escrito por [Tomas Pueyo](https://medium.com/@tomaspueyo) el día 10 de marzo de 2020.</small>
 
 Con todo lo que está pasando con el Coronavirus, puede ser muy difícil tomar una decisión de qué hacer hoy. ¿Debería esperar a tener más información? ¿Hacer algo hoy? ¿Qué?
 
