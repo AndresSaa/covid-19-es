@@ -10,6 +10,9 @@ module.exports = {
     social: {
       twitter: `whereisanddy`,
     },
+    analytics: {
+      gaId: `UA-160404741-1`
+    }
   },
   plugins: [
     {
@@ -74,6 +77,12 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-160404741-1",
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
