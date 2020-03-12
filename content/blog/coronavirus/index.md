@@ -186,7 +186,7 @@ Este fue el número de pruebas realizadas en diferentes países hasta el 3 de ma
 
 ![Tomas Pueyo analysis with data from Worldometer](https://miro.medium.com/max/3207/1*5CLrZODKffLpdVhRgZY4uw.png)
 
-<small>[Fuente de datos aquí](https://docs.google.com/spreadsheets/d/17YyCmjb2Z2QwMiRRwAb7W0vQoEAiL9Co0ARsl03dSlw/edit#gid=508476959)</smalll>
+<small>[Fuente de datos aquí](https://docs.google.com/spreadsheets/d/17YyCmjb2Z2QwMiRRwAb7W0vQoEAiL9Co0ARsl03dSlw/edit#gid=508476959)</small>
 
 Turquía, sin casos de coronavirus, tuvo 10 veces más pruebas por habitante que los EE.UU. La situación no es mucho mejor hoy en día, con ~8.000 pruebas realizadas en los EE.UU., lo que significa que ~4.000 personas se han hecho la prueba.
 
@@ -276,6 +276,98 @@ Dicho de otra manera: Los países que actúan con rapidez pueden reducir el núm
 
 Entonces, ¿qué necesita un país para estar preparado?
 
+### Cuál será la presión sobre el sistema
+
+Alrededor del 20% de los casos requieren hospitalización, el 5% de los casos requieren la Unidad de Cuidados Intensivos (UCI), y alrededor del 1% requieren ayuda muy intensiva, con artículos  como ventiladores o ECMO (oxigenación extracorpórea).
+
+![The Majority of Infections are Mild](https://miro.medium.com/max/2745/1*-O84hhKDRHmgMVAslvgj-Q.png)
+![Best Guess Epidemology](https://miro.medium.com/max/5007/1*OZfW6tNEcArbnBzTXp_zbw.png)
+
+El problema es que artículos como ventiladores y ECMO no pueden ser producidos o comprados fácilmente. Hace unos años, los EE.UU. tenían un total de 250 máquinas de ECMO, por ejemplo.
+
+Así que si de repente tienes 100.000 personas infectadas, muchas de ellas querrán hacerse la prueba. Alrededor de 20.000 necesitarán hospitalización, 5.000 necesitarán la UCI, y 1.000 necesitarán máquinas que no tenemos suficientes hoy en día. Y eso sólo con 100.000 casos.
+
+Eso sin tener en cuenta cuestiones como las máscaras. Un país como los EE.UU. tiene sólo el 1% de las mascarillas que necesita para cubrir las necesidades de sus trabajadores de la salud (12M N95, 30M quirúrgicas vs. 3.5B necesarias). Si aparecen muchos casos a la vez, habrá mascarillas sólo durante 2 semanas.
+
+Países como Japón, Corea del Sur, Hong Kong o Singapur, así como las regiones chinas fuera de Hubei, han sido preparados y se les ha dado la atención que los pacientes necesitan.
+
+Pero el resto de los países occidentales van más bien en dirección a Hubei e Italia. Entonces, ¿qué está sucediendo allí?
+
+### Lo que parece un sistema de atención sanitaria desbordado
+
+Las historias que ocurrieron en Hubei y las de Italia comienzan a ser inquietantemente similares. Hubei construyó dos hospitales en diez días, pero incluso entonces, estaba completamente abrumado.
+
+Ambos se quejaron de que los pacientes inundaban sus hospitales. Tenían que ser atendidos en cualquier lugar: en los pasillos, en las salas de espera...
+
+<small>Recomiendo encarecidamente este corto [hilo de Twitter](https://twitter.com/jasonvanschoor/status/1237142891077697538). Pinta una imagen bastante dura de la Italia de hoy en día.</small>
+
+[Coronavirus a Bergamo, medico Humanitas su Facebook: «Situazione drammatica, altro che normale influenza»](https://bergamo.corriere.it/notizie/cronaca/20_marzo_07/coronavirus-bergamo-medico-humanitas-facebook-situazione-drammatica-altro-che-normale-influenza-4fdf6866-6088-11ea-8d61-438e0a276fc4.shtml)
+
+Los trabajadores de la salud pasan horas en una sola pieza de equipo de protección, porque no hay suficientes. Como resultado, no pueden abandonar las zonas infectadas durante horas. Cuando lo hacen, se desmoronan, se deshidratan y se agotan. Los cambios ya no existen. La gente se ve obligada a dejar la jubilación para cubrir sus necesidades. Las personas que no tienen idea de enfermería son entrenadas de la noche a la mañana para cumplir roles críticos. Todo el mundo está de guardia, siempre.
+
+Es decir, hasta que se enferman. Lo que pasa mucho, porque están en constante exposición al virus, sin suficiente equipo de protección. Cuando eso sucede, necesitan estar en cuarentena durante 14 días, durante los cuales no pueden ayudar. En el mejor de los casos, se pierden dos semanas. En el peor de los casos, están muertos.
+Lo peor es en las UCI, cuando los pacientes necesitan compartir ventiladores o ECMO. Estos son de hecho imposibles de compartir, por lo que los trabajadores de la salud deben determinar qué paciente lo usará. Eso significa realmente, cuál vive y cuál muere.
+
+[Coronavirus: ‘We must choose who to treat,’ says Italian doctor](https://www.brusselstimes.com/all-news/belgium-all-news/health/99412/coronavirus-we-must-choose-who-to-treat-says-italian-doctor-covid-19-christian-salaroli/)
+
+> Después de unos días, tenemos que elegir. [...] No todo el mundo puede ser intubado. Decidimos en base a la edad y el estado de salud"
+> -Christian Salaroli, médico italiano.
+
+Todo esto es lo que lleva a un sistema a tener una tasa de mortalidad de ~4% en lugar de ~0.5%. Si quieres que tu ciudad o tu país sea parte del 4%, no hagas nada hoy.
+
+## 3. ¿Qué debemos hacer?
+
+### Allanar la curva
+
+Esto es una pandemia ahora. No puede ser eliminada. Pero lo que podemos hacer es reducir su impacto.
+Algunos países han sido ejemplares en esto. El mejor es Taiwán, que está muy conectado con China y aún así tiene menos de 50 casos a día de hoy. Este reciente documento explica todas las medidas que tomaron al principio, que se centraron en la contención.
+
+[Response to COVID-19 in Taiwan. Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.com/journals/jama/fullarticle/2762689)
+
+Han sido capaces de contenerla, pero la mayoría de los países no tenían esta experiencia y no la tenían. Ahora, están jugando un juego diferente: la mitigación. Necesitan hacer que este virus sea lo más inofensivo posible.
+
+Si reducimos las infecciones tanto como sea posible, nuestro sistema de salud podrá manejar los casos mucho mejor, reduciendo la tasa de mortalidad. Y, si difundimos esto a lo largo del tiempo, llegaremos a un punto en el que el resto de la sociedad pueda ser vacunada, eliminando el riesgo por completo. Así que nuestro objetivo no es eliminar los contagios de coronavirus. Es posponerlos.
+
+![Why it is so important act early on COVID-19](https://miro.medium.com/max/1005/1*PZesaMfoPxgYJBoQVtpmjQ.gif)
+
+Cuanto más pospongamos los casos, mejor podrá funcionar el sistema de salud, menor será la tasa de mortalidad y mayor será la proporción de la población que será vacunada antes de que se infecte.
+
+¿Cómo allanamos la curva?
+
+### Distanciamiento social
+
+Hay una cosa muy simple que podemos hacer y que funciona: el distanciamiento social.
+
+Si vuelves al gráfico de Wuhan, recordarás que en cuanto hubo un encierro, los casos se redujeron. Eso es porque la gente no interactuó entre sí, y el virus no se propagó.
+
+El consenso científico actual es que este virus puede propagarse en un radio de 2 metros si alguien tose. De lo contrario, las gotas caen al suelo y no te infectan.
+
+La peor infección se produce entonces a través de las superficies: El virus sobrevive durante horas o días en diferentes superficies. Si se comporta como la gripe, puede sobrevivir durante semanas en metal, cerámica y plástico. Eso significa que cosas como picaportes, mesas o botones de ascensores pueden ser terribles vectores de infección.
+
+La única manera de reducirlo realmente es con el distanciamiento social: Mantener a la gente en casa tanto como sea posible, durante el mayor tiempo posible hasta que esto retroceda.
+
+Esto ya ha sido probado en el pasado. A saber, en la pandemia de gripe de 1918.
+
+### Aprendizajes de la pandemia de gripe de 1918
+
+![Date Rate of 1918 Flu Pandemic in Cities with Different Social Distancing Measures](https://miro.medium.com/max/5229/1*16H3bmMfu149AdgU27mI-w.png)
+
+Se puede ver cómo Filadelfia no actuó con rapidez, y tuvo un pico masivo en las tasas de mortalidad. Compare eso con San Luis, que lo hizo.
+
+Luego miren a Denver, que promulgó medidas y luego las aflojó. Tuvieron un doble pico, con el segundo más alto que el primero.
+
+![Excess Death in Denver during the 1918 FLu Pandemic](https://miro.medium.com/max/4167/1*EvJT_ZuzqqyESHgkcVfmUQ.png)
+
+Si generalizas, esto es lo que encuentras:
+
+![Total excess pneumonia and influenza mortality by public health response time](https://miro.medium.com/max/3873/1*3l5P-hZSByxkQghXaQNSdA.png)
+
+Este gráfico muestra, para la gripe de 1918 en los EE.UU., cuántas muertes más hubo por ciudad dependiendo de la rapidez con que se tomaron las medidas. Por ejemplo, una ciudad como San Luis tomó medidas 6 días antes que Pittsburg, y tuvo menos de la mitad de las muertes por ciudadano. En promedio, tomar medidas 20 días antes redujo la tasa de mortalidad a la mitad.
+
+Italia finalmente se ha dado cuenta de esto. Primero cerraron Lombardía el domingo, y un día después, el lunes, se dieron cuenta de su error y decidieron que tenían que cerrar todo el país.
+
+Con suerte, veremos resultados en los próximos días. Sin embargo, tomará de una a dos semanas para verlo. Recuerden el gráfico de Wuhan: hubo un retraso de 12 días entre el momento en que se anunció el cierre y el momento en que los casos oficiales (naranja) comenzaron a bajar.
+
 -
 
-Fuente: [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+Fuente: [Coronavirus: Why You Must Act Now](https://miro.medium.com/max/5229/1*16H3bmMfu149AdgU27mI-w.png)
