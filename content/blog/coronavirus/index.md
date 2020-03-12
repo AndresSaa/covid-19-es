@@ -222,7 +222,7 @@ En la Comunidad de Madrid, con 600 casos oficiales y 17 muertes, el número real
 
 Si lees estos datos y te dices a ti mismo: "Imposible, esto no puede ser verdad", piense en esto: Con este número de casos, Wuhan ya estaba encerrado.
 
-Con el número de casos en países como EE.UU., España, Francia, Irán, Alemania, Japón o Suiza, Wuhan ya estaba encerrado.
+> Con el número de casos en países como EE.UU., España, Francia, Irán, Alemania, Japón o Suiza, Wuhan ya estaba encerrado.
 
 Y si te dices a ti mismo: "Bueno, Hubei es sólo una región", déjame recordarte que tiene casi 60 millones de personas, más grande que España y del tamaño de Francia.
 
