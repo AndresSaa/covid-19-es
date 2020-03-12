@@ -3,6 +3,7 @@ title: Coronavirus. Por qué debemos actuar ahora
 date: "2020-03-12T10:00:00.284Z"
 description: "Políticos, dirigentes de las comunidades y líderes empresariales: ¿Qué deben hacer y cuándo?"
 ---
+<small>Esta es una traducción libre del artículo ["Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) escrito por [Tomas Pueyo](https://medium.com/@tomaspueyo)</small>
 
 Con todo lo que está pasando con el Coronavirus, puede ser muy difícil tomar una decisión de qué hacer hoy. ¿Debería esperar a tener más información? ¿Hacer algo hoy? ¿Qué?
 
@@ -324,9 +325,9 @@ Algunos países han sido ejemplares en esto. El mejor es Taiwán, que está muy 
 
 [Response to COVID-19 in Taiwan. Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.com/journals/jama/fullarticle/2762689)
 
-Han sido capaces de contenerla, pero la mayoría de los países no tenían esta experiencia y no la tenían. Ahora, están jugando un juego diferente: la mitigación. Necesitan hacer que este virus sea lo más inofensivo posible.
+Han sido capaces de contenerla, pero la mayoría de los países no tenían esta experiencia y no la han contenido. Ahora están jugando un juego diferente: la mitigación. Necesitan hacer que este virus sea lo más inofensivo posible.
 
-Si reducimos las infecciones tanto como sea posible, nuestro sistema de salud podrá manejar los casos mucho mejor, reduciendo la tasa de mortalidad. Y, si difundimos esto a lo largo del tiempo, llegaremos a un punto en el que el resto de la sociedad pueda ser vacunada, eliminando el riesgo por completo. Así que nuestro objetivo no es eliminar los contagios de coronavirus. Es posponerlos.
+Si reducimos las infecciones tanto como sea posible, nuestro sistema de salud podrá manejar los casos mucho mejor, reduciendo la tasa de mortalidad. Y, si difundimos esto a lo largo del tiempo, llegaremos a un punto en el que el resto de la sociedad pueda ser vacunada, eliminando el riesgo por completo. Así que nuestro objetivo no es eliminar los contagios de coronavirus, *es posponerlos*.
 
 ![Why it is so important act early on COVID-19](https://miro.medium.com/max/1005/1*PZesaMfoPxgYJBoQVtpmjQ.gif)
 
@@ -368,6 +369,122 @@ Italia finalmente se ha dado cuenta de esto. Primero cerraron Lombardía el domi
 
 Con suerte, veremos resultados en los próximos días. Sin embargo, tomará de una a dos semanas para verlo. Recuerden el gráfico de Wuhan: hubo un retraso de 12 días entre el momento en que se anunció el cierre y el momento en que los casos oficiales (naranja) comenzaron a bajar.
 
+### ¿Cómo pueden los políticos contribuir al Dispersión Social?
+
+La pregunta que se hacen los políticos hoy en día no es si deben hacer algo, sino más bien cuál es la acción apropiada a tomar.
+Hay varias etapas para controlar una epidemia, empezando por la anticipación y terminando con la erradicación. Pero es demasiado tarde para la mayoría de las opciones actuales. Con este nivel de casos, las dos únicas opciones que tienen los políticos frente a ellos son la contención y la mitigación.
+
+### Contención
+
+La contención es asegurarse de que todos los casos sean identificados, controlados y aislados. Es lo que Singapur, Hong Kong, Japón o Taiwán están haciendo tan bien: Limitan muy rápidamente la entrada de personas, identifican a los enfermos, los aíslan inmediatamente, utilizan equipos de protección pesados para proteger a sus trabajadores sanitarios, rastrean todos sus contactos, los ponen en cuarentena... Esto funciona extremadamente bien cuando se está preparado y se hace desde el principio, y no es necesario paralizar la economía para que esto ocurra.
+
+Ya he promocionado el enfoque de Taiwán. Pero el de China también lo es. Las distancias a las que llegó para lograrlo son alucinantes. Por ejemplo, tenían hasta 1.800 equipos de 5 personas cada uno rastreando a cada persona infectada, todos con los que interactuaban, luego todos con los que interactuaban, y aislando al grupo. Así es como fueron capaces de contener el virus a través de un país de mil millones de personas.
+
+Esto no es lo que los países occidentales han hecho. Y ahora es demasiado tarde. El reciente anuncio de EE.UU. de que la mayoría de los viajes desde Europa fueron prohibidos es una medida de contención para un país que tiene, a partir de hoy, 3 veces los casos que tenía Hubei cuando se cerró, creciendo exponencialmente. Es contención cuando lo que se necesita es mitigación.
+
+Una vez que hay cientos o miles de casos creciendo en la población, evitar que vengan más, rastrear los existentes y aislar sus contactos ya no es suficiente. El siguiente nivel es la mitigación.
+
+### Mitigación
+
+La mitigación requiere un gran distanciamiento social. La gente necesita dejar de salir para bajar la tasa de transmisión (R), desde el R=~2-3 que el virus sigue sin medidas, hasta por debajo de 1, para que eventualmente se extinga.
+
+Estas medidas requieren el cierre de empresas, tiendas, transporte masivo, escuelas, hacer cumplir los cierres... Cuanto peor sea su situación, peor será el distanciamiento social. Cuanto antes se impongan medidas pesadas, menos tiempo se necesita para mantenerlas, más fácil es identificar los casos de cervecería, y menos gente se infecta.
+
+Esto es lo que Wuhan tenía que hacer. Esto es lo que Italia se vio obligada a aceptar. Porque cuando el virus está en aumento, la única medida es que todas las áreas infectadas dejen de propagarlo de una vez.
+
+Con miles de casos oficiales - y decenas de miles de casos verdaderos - esto es lo que países como Irán, Francia, España, Alemania, Suiza o los EE.UU. tienen que hacer.
+
+- Algunos negocios están trabajando desde casa, lo cual es fantástico.
+- Algunos eventos masivos están siendo detenidos.
+- Algunas áreas afectadas están en cuarentena.
+
+Todas estas medidas frenarán el virus. Pero no es suficiente para conseguir esta tasa de transmisión, esta R, de 2,5 a 2,2 o incluso 2. Tenemos que conseguir que baje a menos de 1 durante un período sostenido de tiempo para matarlo. Y si no podemos hacer eso, necesitamos tenerlo lo más cerca posible de 1 durante el mayor tiempo posible, para aplanar la curva.
+
+Así que la pregunta es: ¿Cuáles son las compensaciones que podríamos hacer para bajar la R? Este es el menú que Italia ha puesto delante de todos nosotros:
+
+- Nadie puede entrar o salir de las áreas de encierro, a menos que haya razones familiares o laborales comprobadas.
+- Debe evitarse el movimiento dentro de las áreas, a menos que esté justificado por razones personales o de trabajo urgentes y no se pueda posponer.
+- Se "recomienda encarecidamente" a las personas con síntomas (infección respiratoria y fiebre) que permanezcan en casa.
+- Se suspende el tiempo libre estándar para los trabajadores de la salud
+- Cierre de todos los establecimientos educativos (escuelas, universidades...), gimnasios, museos, estaciones de esquí, centros culturales y sociales, piscinas y teatros.
+- Los bares y restaurantes tienen un horario limitado de apertura de 6 a 18 horas, con una distancia mínima de un metro entre las personas.
+- Todos los pubs y clubes deben cerrar.
+- Toda la actividad comercial debe mantener una distancia de un metro entre los clientes. Los que no puedan hacerlo deben cerrar. Los templos pueden permanecer abiertos mientras puedan garantizar esta distancia.
+- Las visitas al hospital de familiares y amigos son limitadas
+- Las reuniones de trabajo deben ser pospuestas. El trabajo desde casa debe ser fomentado.
+- Todos los eventos y competiciones deportivas, públicas o privadas, se cancelan. Los eventos importantes se pueden celebrar a puerta cerrada.
+
+Luego, dos días más tarde, añadieron:
+> No, de hecho, hay que cerrar todos los negocios que no son cruciales. Así que ahora estamos cerrando todas las actividades comerciales, oficinas, cafés y tiendas. Sólo el transporte, las farmacias y las tiendas de comestibles permanecerán abiertas.
+
+Un enfoque consiste en aumentar gradualmente las medidas. Desafortunadamente, eso da un tiempo precioso para que el virus se extienda. Si quieres estar seguro, hazlo al estilo Wuhan. La gente puede quejarse ahora, pero te lo agradecerán después.
+
+### ¿Cómo pueden los líderes empresariales contribuir al distanciamiento social?
+
+Si eres un líder empresarial y quieres saber lo que debes hacer, el mejor recurso para ti es el Club de Estancia en Casa.
+
+¿Quién se queda en casa por culpa de COVID-19?
+
+Una lista de todas las compañías WFH o eventos cambiados por causa de covid-19 stayinghome.club
+[Who’s staying home because of COVID-19?](https://stayinghome.club/)
+
+Es una lista de las políticas de distanciamiento social que han sido promulgadas por las empresas tecnológicas de EE.UU. - hasta ahora, 138.
+
+Van desde lo permitido a lo requerido de Trabajo desde casa, y visitas, viajes o eventos restringidos.
+Hay más cosas que cada empresa debe determinar, como qué hacer con los trabajadores por hora, si mantener la oficina abierta o no, cómo realizar entrevistas, qué hacer con las cafeterías... Si quiere saber cómo manejó mi empresa algunas de estas cosas, junto con un modelo de anuncio a sus empleados, aquí está el que usó mi empresa (vea sólo la versión aquí).
+
+## 4. ¿Cuándo?
+
+Es muy posible que hasta ahora estés de acuerdo con todo lo que he dicho, y te hayas preguntado desde el principio cuándo tomar cada decisión. Dicho de otro modo, qué desencadenantes deberíamos tener para cada medida.
+
+Modelo basado en el riesgo para los desencadenantes
+
+Para resolver esto, Tomas Pueyo ha creado un modelo:
+[Coronavirus – When Should You Close Your Office?](https://docs.google.com/spreadsheets/d/17YyCmjb2Z2QwMiRRwAb7W0vQoEAiL9Co0ARsl03dSlw/htmlview?usp=sharing&sle=true&pru=AAABcPLFvfI*25VDXNC3tS0ckooN0DJVlg)
+
+Le permite evaluar el número probable de casos en su zona, la probabilidad de que sus empleados ya estén infectados, la forma en que eso evoluciona con el tiempo y la forma en que eso debería indicarle si debe permanecer abierto.
+
+Nos dice cosas como:
+
+- Si su empresa tiene 100 empleados en el área del estado de Washington que tiene 11 muertes por coronavirus, hay un 25% de posibilidades de que al menos uno de sus empleados esté infectado, y debe cerrar inmediatamente.
+- Si su empresa tiene 250 empleados, principalmente en el sur de la bahía (condados de San Mateo y Santa Clara, que en conjunto tienen 22 casos oficiales y el número verdadero es probablemente al menos 54), por 3/9 tendrá ~2% de posibilidades de tener al menos un empleado infectado.
+- Si su empresa está en París (intramuros), y tiene 250 empleados, hoy hay un 0,85% de probabilidades de que uno de sus empleados tenga el coronavirus, y para mañana será del 1,2%, así que si sólo se siente cómodo con un 1% de probabilidades, debería cerrar su oficina para mañana.
+
+El modelo utiliza etiquetas como "empresa" y "empleado", pero el mismo modelo se utiliza para cualquier otra cosa: escuelas, transporte público... Así que si tienes sólo 50 empleados en París, pero todos ellos van a tomar el RER, encontrándose con miles de otras personas, de repente la probabilidad de que al menos uno de ellos se infecte es mucho mayor y deberías cerrar tu oficina inmediatamente.
+
+Si todavía estás dudando porque nadie muestra síntomas, sólo date cuenta que el 26% de los contagios ocurren antes de que haya síntomas.
+
+### ¿Formas parte de un grupo de líderes?
+
+Estas matemáticas son egoístas. Mira el riesgo de cada compañía individualmente, tomando todo el riesgo que queramos hasta que el inevitable martillo del coronavirus cierre nuestras oficinas.
+
+Pero si eres parte de una liga de líderes empresariales o políticos, tus cálculos no son para una sola compañía, sino para toda. Las matemáticas se vuelven: ¿Cuál es la probabilidad de que alguna de nuestras empresas esté infectada? Si son un grupo de 50 compañías de 250 empleados en promedio, en el área de la bahía de San Francisco, hay un 35% de probabilidad de que al menos una de las compañías tenga un empleado infectado, y un 97% de probabilidad de que eso sea cierto la próxima semana. Añadí una pestaña en el modelo para jugar con eso.
+
+### Conclusión: El coste de la espera
+
+Conclusión: El coste de la espera
+
+![Model of Daily New Cases of Coronavirus with Social Distancing Measures Taken One Day Apart](https://miro.medium.com/max/4419/1*XcXT9eNuHRQMOUEf_gAB9A.png)
+
+Este modelo teórico muestra diferentes comunidades: una no toma medidas de distanciamiento social, las toma el día n de un brote, la otra el día n+1. Todos los números son completamente ficticios (los elegí para que se parezcan a lo que ocurrió en Hubei, con ~6k nuevos casos diarios en el peor de los casos). Están ahí para ilustrar lo importante que puede ser un solo día en algo que crece exponencialmente. Puedes ver que el retraso de un día llega a su punto máximo más tarde y más alto, pero entonces los casos diarios convergen en cero.
+
+¿Pero qué pasa con los casos acumulados?
+
+![Model of Cumulative Cases of Coronavirus with Social Distancing Measures Taken One Day Apart](https://miro.medium.com/max/4479/1*4kOJv8hmd5VFPcBL1mywsw.png)
+
+En este modelo teórico que se asemeja vagamente a Hubei, esperar un día más crea un 40% más de casos! Así que, tal vez, si las autoridades de Hubei hubieran declarado el cierre en 1/22 en lugar de 1/23, podrían haber reducido el número de casos en la asombrosa cantidad de 20k.
+
+Y recuerda, estos son sólo casos. La mortalidad sería mucho más alta, porque no sólo habría directamente un 40% más de muertes. También habría un colapso mucho mayor del sistema de salud, lo que llevaría a una tasa de mortalidad hasta 10 veces más alta que la que vimos antes. Así que una diferencia de un día en las medidas de distanciamiento social puede terminar de explotar el número de muertes en su comunidad multiplicando más casos y una tasa de mortalidad más alta.
+
+Esta es una amenaza exponencial. Cada día cuenta. Cuando estás retrasando por un solo día una decisión, no estás contribuyendo a unos pocos casos tal vez. Probablemente ya hay cientos o miles de casos en su comunidad. Cada día que no hay distanciamiento social, estos casos crecen exponencialmente.
+
+### Corre la voz
+
+Esta es probablemente la única vez en la última década que compartir un artículo podría salvar vidas. Necesitan entender esto para evitar una catástrofe. El momento de actuar es ahora.
+
 -
 
 Fuente: [Coronavirus: Why You Must Act Now](https://miro.medium.com/max/5229/1*16H3bmMfu149AdgU27mI-w.png)
+
+Si deaseas contribuir a la traducción de más artículos como este, colabora con una donación por PayPal:
+[PayPalMe](https://www.paypal.com/paypalme2/AndresSaaNarvaez)
