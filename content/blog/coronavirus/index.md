@@ -13,14 +13,14 @@ Esto es lo que voy a cubrir en este artículo, con muchos gráficos, datos y mod
 - ¿Qué debería hacer?
 - ¿Cuándo?
 
-Cuando termines de leer el artículo, esto es lo que te llevarás:
+Cuando termines de leer el artículo, esto es lo que entenderás:
 
-El coronavirus viene hacia ti.
+El coronavirus viene hacia ti. Hacia todos nosotros.
 Viene a una velocidad exponencial: gradualmente, y luego repentinamente.
 Es cuestión de días. Tal vez una semana o dos.
-Cuando lo haga, su sistema de salud se verá abrumado.
-Sus conciudadanos serán tratados en los pasillos.
-Los agotados trabajadores de la salud se quebrarán. Algunos morirán.
+Cuando lo haga, nuestro sistema de salud se verá saturado, si no lo está ya.
+Tus conciudadanos tendrán que ser atendidos en los pasillos.
+Los trabajadores agotados de la salud pública y privada acabarán exaustos emocional y físicamente. Algunos incluso morirán.
 Tendrán que decidir qué paciente recibe el oxígeno y cuál muere.
 La única manera de prevenir esto es el distanciamiento social hoy en día.
 No mañana.
@@ -28,13 +28,13 @@ Hoy.
 
 Eso significa mantener a tanta gente en casa como sea posible, empezando ahora.
 
-Como político, líder de la comunidad o líder de negocios, tienes el poder y la responsabilidad de prevenir esto.
+Si eres un político, líder de la comunidad o líder de negocios, tienes el poder y la responsabilidad de prevenir esto.
 
-Podrías tener temores hoy: ¿Qué pasa si reacciono exageradamente? ¿La gente se reirá de mí? ¿Se enojarán conmigo? ¿Me veré estúpido? ¿No será mejor esperar a que otros den los primeros pasos? ¿Dañaré demasiado la economía?
+Podrías tener ciertos temores hoy: ¿Qué pasa si reacciono exageradamente? ¿La gente se reirá de mí? ¿Se enfarán conmigo? ¿Me sentiré estúpido? ¿No será mejor esperar a que otros den los primeros pasos? ¿Perjudicaré la economía?
 
 Pero en 2-4 semanas, cuando el mundo entero esté encerrado, cuando los pocos y preciosos días de distanciamiento social que habrás habilitado hayan salvado vidas, la gente no te criticará más: Te agradecerán que tomes la decisión correcta.
 
-Bien, hagamos esto.
+Bien, actúa ahora.
 
 ## 1. ¿Cuántos casos de Coronavirus habrá en tu área?
 
