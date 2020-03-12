@@ -1,5 +1,5 @@
 ---
-title: Coronavirus. Por qué debemos actuar ahora
+title: Coronavirus. Por qué debemos actuar ya!
 date: "2020-03-12T10:00:00.284Z"
 description: "Políticos, dirigentes de las comunidades y líderes empresariales: ¿Qué deben hacer y cuándo?"
 ---
