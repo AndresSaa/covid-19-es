@@ -8,7 +8,7 @@ import { rhythm, scale } from "../utils/typography"
 import { DiscussionEmbed } from "disqus-react"
 
 const disqusConfig = ({ slug, title }) => ({
-  shortname: process.env.GATSBY_DISQUS_NAME,
+  shortname: `covid-19-es`,
   config: { identifier: slug, title },
 })
 
