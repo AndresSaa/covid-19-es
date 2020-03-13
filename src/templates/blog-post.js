@@ -5,6 +5,12 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import { DiscussionEmbed } from "disqus-react"
+
+const disqusConfig = ({ slug, title }) => ({
+  shortname: process.env.GATSBY_DISQUS_NAME,
+  config: { identifier: slug, title },
+})
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -43,6 +49,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
+        <DiscussionEmbed {...disqusConfig({ slug: post.id, title: post.frontmatter.title })} />
+        <hr
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        />
+
         <footer>
           <Bio />
         </footer>
